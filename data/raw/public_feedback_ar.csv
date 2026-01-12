@@ -1,0 +1,11 @@
+id,text,category,sentiment
+1,الخدمة كانت بطيئة جدا في المستشفى,health,negative
+2,التطبيق ممتاز وسهل الاستخدام,digital,positive
+3,المدرسة تفتقر للمعلمين المؤهلين,education,negative
+4,الخدمات الإلكترونية تحسنت كثيرا,digital,positive
+5,الانتظار طويل في المراكز الصحية,health,negative
+6,المنصة التعليمية مفيدة للطلاب,education,positive
+7,تأخر الرد على الشكاوى,digital,negative
+8,النظام الجديد وفر علينا الوقت,digital,positive
+9,المدرسة تحتاج دعم إضافي,education,negative
+10,الخدمة ممتازة وسريعة,health,positive
